@@ -1,0 +1,40 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Python caches (if any)
+__pycache__/
+*.py[cod]
+
+# Virtual environments (if any)
+env/
+.venv/
+
+# Editor configs
+.vscode/
+.idea/
+
+# Build output (if any)
+build/
+dist/
+
+# dotenv environment files
+.env
+.env.*
+
+# Docker local stuff (optional)
+*.pid
+
+# Ignore coverage reports
+coverage/
+
+# Ignore OS swap files
+*.swp
