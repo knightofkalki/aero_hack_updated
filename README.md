@@ -52,4 +52,4 @@ This project is licensed under the MIT license
 
 <p>From day one, I set out to revolutionize cube-solving. Through the highs and lows, I’ve shared every step.</p>
 <br>
-<p>Find me on twitter <a href="https://twitter.com/suhasasumukh">@suhasasumukh</a></p>
+<p>Find me on linkedin <a href="https://in.linkedin.com/in/ujjwal-1x?trk=people-guest_people_search-card">@Ujjwal_aggarwal</a></p>
